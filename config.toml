@@ -1,5 +1,5 @@
 theme = "awesome-identity"
-baseURL = "https://example.com"
+baseURL = "https://my-hugo-project.billyfung.now.sh/"
 title = "Awesome Identity for Hugo"
 
 
