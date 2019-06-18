@@ -16,6 +16,9 @@ title = "Awesome Identity for Hugo"
   Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
   """
 
+[params.contacts]
+  email = "billy@billyfung.com"
+  github = "billyfung"
 
 ## Footer Configurations
 [params.footer]

@@ -1,1 +1,3 @@
-This current lives at  my-hugo-project.billyfung.now.sh
+Deployed using Zeit Now. 
+
+Trying out Serverless deployment of Hugo site. 
