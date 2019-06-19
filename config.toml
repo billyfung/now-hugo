@@ -5,16 +5,15 @@ title = "Awesome Identity for Hugo"
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/portrait-default.png"
+  portrait = "/images/profile.jpg"
   firstname = "Billy"
   lastname = "Fung"
   title = "Tinkerer"
-  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**VR**](https://en.wikipedia.org/wiki/Virtual_reality) technology companies.
+  bio = """This is my landing page for now while I work on redesigning my blog.
+  
+  I spend my time on using technology to modernise electricity infrastructure (smart grids) in order to increase uptake of renewables and decrease GHG emissions.  
+  """ 
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
-
-  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-  """
 
 [params.contacts]
   email = "billy@billyfung.com"
