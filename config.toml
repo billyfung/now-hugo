@@ -18,6 +18,7 @@ title = "Awesome Identity for Hugo"
 [params.contacts]
   email = "billy@billyfung.com"
   github = "billyfung"
+  resume = "billy-resume.pdf"
 
 ## Footer Configurations
 [params.footer]
