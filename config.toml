@@ -1,6 +1,6 @@
 theme = "awesome-identity"
 baseURL = "https://my-hugo-project.billyfung.now.sh/"
-title = "Awesome Identity for Hugo"
+title = "Super Cool Awesome"
 
 
 ## Profile Configurations
@@ -23,4 +23,4 @@ title = "Awesome Identity for Hugo"
 ## Footer Configurations
 [params.footer]
   copyright = "© 2019 Billy Fung. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
-  poweredBy = true
+  poweredBy = false
